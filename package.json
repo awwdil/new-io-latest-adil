@@ -1,8 +1,8 @@
 {
-  "name": "test",
+  "name": "new-io-latest-adil",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://awwdil.github.io/newsiteadil",
+  "homepage": "https://awwdil.github.io/new-io-latest-adil",
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@testing-library/jest-dom": "^5.17.0",
