@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/new-io-latest-adil/static/css/main.d90ceccc.chunk.css",
+    "main.js": "/new-io-latest-adil/static/js/main.e4edc456.chunk.js",
+    "main.js.map": "/new-io-latest-adil/static/js/main.e4edc456.chunk.js.map",
+    "runtime-main.js": "/new-io-latest-adil/static/js/runtime-main.e9b311ca.js",
+    "runtime-main.js.map": "/new-io-latest-adil/static/js/runtime-main.e9b311ca.js.map",
+    "static/css/2.98036eff.chunk.css": "/new-io-latest-adil/static/css/2.98036eff.chunk.css",
+    "static/js/2.bc06a38b.chunk.js": "/new-io-latest-adil/static/js/2.bc06a38b.chunk.js",
+    "static/js/2.bc06a38b.chunk.js.map": "/new-io-latest-adil/static/js/2.bc06a38b.chunk.js.map",
+    "index.html": "/new-io-latest-adil/index.html",
+    "precache-manifest.219b63bf45422d062f50511f7adb5510.js": "/new-io-latest-adil/precache-manifest.219b63bf45422d062f50511f7adb5510.js",
+    "service-worker.js": "/new-io-latest-adil/service-worker.js",
+    "static/css/2.98036eff.chunk.css.map": "/new-io-latest-adil/static/css/2.98036eff.chunk.css.map",
+    "static/css/main.d90ceccc.chunk.css.map": "/new-io-latest-adil/static/css/main.d90ceccc.chunk.css.map",
+    "static/js/2.bc06a38b.chunk.js.LICENSE.txt": "/new-io-latest-adil/static/js/2.bc06a38b.chunk.js.LICENSE.txt",
+    "static/media/fbVideo.png": "/new-io-latest-adil/static/media/fbVideo.371c08b8.png",
+    "static/media/mainlogo.png": "/new-io-latest-adil/static/media/mainlogo.643ff345.png",
+    "static/media/meta.svg": "/new-io-latest-adil/static/media/meta.d7761a96.svg",
+    "static/media/metalogo.png": "/new-io-latest-adil/static/media/metalogo.68dbcb72.png",
+    "static/media/thankstop.png": "/new-io-latest-adil/static/media/thankstop.e03f40f1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9b311ca.js",
+    "static/css/2.98036eff.chunk.css",
+    "static/js/2.bc06a38b.chunk.js",
+    "static/css/main.d90ceccc.chunk.css",
+    "static/js/main.e4edc456.chunk.js"
+  ]
+}
